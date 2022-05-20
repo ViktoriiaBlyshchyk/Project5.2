@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Study\ООП\Project5.2\Project5.2\Source.cpp(25): warning C4715: Error::What: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Study\ООП\Project5.2\x64\Debug\UnitTest1.lib и объект D:\Study\ООП\Project5.2\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Study\ООП\Project5.2\x64\Debug\UnitTest1.dll
